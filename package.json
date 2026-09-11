@@ -1,0 +1,33 @@
+{
+  "name": "lunaperche",
+  "displayName": "Lunaperche",
+  "description": "A dark VS Code theme ported from the lunaperche Neovim colorscheme.",
+  "version": "0.1.0",
+  "publisher": "leemu",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leemu/vscode-lunaperche"
+  },
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "lunaperche",
+    "neovim"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lunaperche",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lunaperche-color-theme.json"
+      }
+    ]
+  }
+}

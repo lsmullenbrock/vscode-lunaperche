@@ -1,0 +1,12 @@
+# Ignore everything by default!
+*.*
+
+# Only include what we want.
+!.gitignore
+!*.md
+!LICENSE
+!package.json
+!themes/
+!themes/*.json
+!.vscode/
+!.vscode/*.json
