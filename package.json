@@ -3,7 +3,7 @@
   "displayName": "Lunaperche",
   "description": "A dark VS Code theme ported from the lunaperche Neovim colorscheme.",
   "version": "0.1.0",
-  "publisher": "leemu",
+  "publisher": "github.com/lsmullenbrock",
   "license": "MIT",
   "repository": {
     "type": "git",
